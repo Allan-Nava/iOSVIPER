@@ -17,3 +17,8 @@ This separation is borne out of “Uncle” Bob Martin’s Clean Architecture pa
 <img src="https://koenig-media.raywenderlich.com/uploads/2020/02/viper.png">
 
 Source: https://www.raywenderlich.com/8440907-getting-started-with-the-viper-architecture-pattern
+
+Documentations: 
+
+- https://medium.com/@smalam119/viper-design-pattern-for-ios-application-development-7a9703902af6
+- https://medium.com/cr8resume/viper-architecture-for-ios-project-with-simple-demo-example-7a07321dbd29
